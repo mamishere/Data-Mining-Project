@@ -1,5 +1,4 @@
-# **Predictive Modeling of Chest Pain and Shortness of Breath in a Diverse Population:**  
-**A Multivariate Analysis of Health and Lifestyle Factors**
+# **Predictive Modeling of Chest Pain and Shortness of Breath in a Diverse Population: A Multivariate Analysis of Health and Lifestyle Factors**  
 
 <div style="text-align: justify">
 
